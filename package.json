@@ -37,7 +37,7 @@
     "@typescript-eslint/eslint-plugin": "5.30.7",
     "@vitejs/plugin-vue": "2.3.3",
     "@vue/eslint-config-typescript": "11.0.0",
-    "eslint": "8.19.0",
+    "eslint": "8.20.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-check-file": "1.2.2",
     "eslint-plugin-prettier": "4.2.1",
