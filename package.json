@@ -56,6 +56,6 @@
     "vite": "2.9.14",
     "vite-plugin-css-injected-by-js": "1.5.1",
     "vite-plugin-vue-type-imports": "0.2.0",
-    "vue-tsc": "0.38.9"
+    "vue-tsc": "0.39.2"
   }
 }
